@@ -1,4 +1,4 @@
-# Digital_Filter
+# Digital-Filter
 # Image
 <img src="gif/digital_Filter.jpg">
 <br><br><br>
