@@ -6,7 +6,7 @@
 <IMG SRC="gif/Animation.gif">
 <br>
 
-# team members 
+# Team members 
   
 | N             | Name          |
 | ------------- | ------------- |
